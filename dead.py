@@ -53,7 +53,7 @@ def x(tetew):
       ipt = raw_input(tetew)
 
    return str(ipt)
-def aox(script,target_file="webdav.txt"):
+def aox(script,target_file="list.txt"):
    dface = "/"+script+"\n"
    op = open(script,"r").read()
    with open(target_file, "r") as target:
