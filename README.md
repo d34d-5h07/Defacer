@@ -1,18 +1,15 @@
-
 # Auto Defacer
-This tool works on the basis of webdev vulnerability
 
-- Vulnerabilities in WebDAV Detection is a Medium risk vulnerability that is one of the most frequently found on networks around the world. WebDAV is an industry standard extension to the HTTP specification that adds a capability for authorized users to remotely add and manage the content of a web server.
+## Webdav
+- [What is Webdav vulerability ](https://null-byte.wonderhowto.com/how-to/exploit-webdav-server-get-shell-0204718//)
+- [How to defend against Webdav vulnerability](https://www.acunetix.com/websitesecurity/web-application-attack//)
 
-### links
--[List of webdev vulnerable websites](https://raw.githubusercontent.com/d34d-5h07/Defacer/master/list.txt) 
+### Links
 
--[Dork to find more vulnerable websites](https://raw.githubusercontent.com/d34d-5h07/Defacer/master/Dork.txt)
-
-Commands
-
+### Steps 
 ```
 pkg install python
 git clone https://github.com/d34d-5h07/Defacer.git
 cd Defacer
 python defacer.py
+```
