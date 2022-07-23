@@ -1,7 +1,3 @@
-#!/usr/bin/python
-#CYBER_DEADSHOT
-#CODED BY D34D_5H07
-
 try:
    import requests
    import os.path
@@ -17,7 +13,6 @@ banner = """
 ██║  ██║██╔══╝  ██╔══██║██║  ██║╚════██║██╔══██║██║   ██║   ██║
 ██████╔╝███████╗██║  ██║██████╔╝███████║██║  ██║╚██████╔╝   ██║
 ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝
-                     >>CODED BY D34D_5H07<<
                    >>CLICK CNTRL+C  TO STOP<<
       >>YOU CAN FIND THE LIST OF DEFACED SITES IN result.txt <<
 """
