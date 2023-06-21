@@ -8,7 +8,7 @@
 ### Links :
 - [Dork](https://raw.githubusercontent.com/d34d-5h07/Defacer/master/src/dork.txt)
 - [List](https://raw.githubusercontent.com/d34d-5h07/Defacer/master/src/list.txt)
-- [More Webdav Vuln Sites](https://www.scribd.com/doc/217640243/1000-Webdav-Vuln-Website)
+- [More Webdev Vuln Sites](https://www.scribd.com/doc/217640243/1000-Webdav-Vuln-Website)
 ### Steps :
 ```
 pkg install python
