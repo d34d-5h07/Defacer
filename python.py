@@ -19,22 +19,6 @@ banner = """
 
 os.system("clear")
 os.system("figlet DEFACE")
-option = input("Would you like to Begin Auto Defacing Tool? (y/n) :-  ")
-if (option=="y"):
-        print("")
-        os.system("clear")
-        print(banner)
-        os.system("clear")           
-elif(option=="n"):
-        print("")
-        print("Exiting...")
-        os.system("sleep 1")
-        os.system("clear")
-        print(banner)
-        os.system("sleep 2")
-        os.system("clear")
-        exit()
-
 b = '\033[31m'
 h = '\033[32m'
 m = '\033[00m'
